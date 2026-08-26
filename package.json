@@ -1,0 +1,15 @@
+
+{
+  "name": "afarid-style-turkey-bot",
+  "version": "1.0.0",
+  "description": "A-FARID STYLE TURKEY official wholesale Telegram bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.10.0",
+    "dotenv": "^17.2.1",
+    "telegraf": "^4.16.3"
+  }
+}
